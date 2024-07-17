@@ -39,9 +39,13 @@ MECP 是以 GitHub 为基础的导师匿名评价项目
 
 **温馨提示：**
 编写前请先阅读
+
 https://github.com/MEC-Program/MECP/blob/main/Collection/README.md
+
 https://github.com/MEC-Program/MECP/blob/main/Collection/xxx_University/README.md
+
 https://github.com/MEC-Program/MECP/blob/main/Collection/xxx_University/xxx_College/README.md
+
 https://github.com/MEC-Program/MECP/blob/main/Collection/xxx_University/xxx_College/xxx_mentor/README_001.md
 
 
