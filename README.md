@@ -1,7 +1,7 @@
 
 ![MECP](https://socialify.git.ci/MEC-Program/MECP/image?description=1&forks=1&issues=1&name=1&owner=1&pattern=Diagonal%20Stripes&pulls=1&stargazers=1&theme=Dark)
 
-## 什么是「 导师评价收集计划 / MECP 」
+## 🤔 什么是「 导师评价收集计划 / MECP 」
 
 MECP 是以 GitHub 为基础的导师匿名评价项目
 
@@ -9,7 +9,7 @@ MECP 是以 GitHub 为基础的导师匿名评价项目
 - **评价广泛** ：广泛收集评价，自由发表言论。
 - **时刻备份** ：GitHub 支持查看每次提交。
 
-## 目录
+## 📘 目录
 
 - [如何加入到本项目](#如何加入到本项目)
   - [基本要求](#基本要求)
@@ -21,7 +21,7 @@ MECP 是以 GitHub 为基础的导师匿名评价项目
 - [版权说明](#版权说明)
 - [Star History](#star-history)
 
-### 如何加入到本项目
+### 📝 如何加入到本项目
 
 
 ###### 基本要求
@@ -37,8 +37,12 @@ MECP 是以 GitHub 为基础的导师匿名评价项目
 - 第五步，请推送到你的 `Fork` GitHub储存库。
 - 第六步，提交 `Pull Requests` 。
 
+**温馨提示：**
+编写前请先阅读
 
-### 文件目录说明
+
+
+### 💾 文件目录说明
 
 ```
 
@@ -58,11 +62,12 @@ MECP
    
 
 ```
-### 项目实现方式
+
+### 💡 项目实现方式
 
 本项目通过 GitHub Pages 实现，采用 CloudFlare 的 CDN 服务，使用 ClouDns 提供的免费域名。
 
-### 声明
+### 🔔 声明
 
 1. 在利用本项目收集评价时，造成对您自己或他人任何形式的损失和伤害，我们不承担任何责任
 2. 如您在利用本项目收集评价过程中存在任何非法行为，您需自行承担相应后果，我们将不承担任何法律及连带责任
@@ -70,17 +75,17 @@ MECP
 4. 除非您已阅读并接受本协议所有条款，否则您无权阅读漏洞细节、下载、使用本计划相关内容及相关代码
 5. 您的下载、使用等行为即视为您已阅读并同意上述协议的约束，如有问题，可发在 [Issues](https://github.com/MEC-Program/MECP/issues)
 
-### 贡献者
+### 🙏 贡献者
 
 请阅读 [Contributors](https://github.com/MEC-Program/MECP/graphs/contributors) 查阅为该项目做出贡献的开发者。
 
 
-### 版权说明
+### 📃 版权说明
 
 该项目签署了 GNU 通用公共许可协议，详情请参阅 [LICENSE](https://github.com/MEC-Program/MECP/blob/main/LICENSE)
 
 
-### 鸣谢
+### 🙏 鸣谢
 
 - [Choose an Open Source License](https://choosealicense.com)
 - [GitHub Pages](https://pages.github.com)
